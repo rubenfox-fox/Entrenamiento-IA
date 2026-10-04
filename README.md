@@ -1,7 +1,5 @@
 # Entrenamiento-IA
-Propuesta para el `README.md` del repositorio:
-
-# Kernel NRK-AI / Research & Documentation Repository
+Research & Documentation Repository
 
 Repositorio técnico dedicado al análisis avanzado, arquitectura de agentes, ingeniería de representaciones y gobernanza operativa de modelos de lenguaje de gran escala (LLM).
 
