@@ -1,4 +1,4 @@
-#Capítulo 1: La Composición Generacional como Frontera Cognitiva entre el Saber y la Inteligencia
+# Capítulo 1: La Composición Generacional como Frontera Cognitiva entre el Saber y la Inteligencia
 
 La evolución de los modelos de lenguaje de gran escala (LLM) ha puesto de manifiesto una divergencia fundamental en la informática cognitiva: la distinción entre la acumulación paramétrica de información y la verdadera capacidad de razonamiento abstracto. En el centro de esta discusión se halla el concepto de **Composición Generacional** (o razonamiento composicional), definido como la facultad cognitiva de descomponer dos o más ideas, entidades o propiedades subyacentes —sean estas concretas o abstractas— y reconfigurarlas sistemáticamente para dar origen a un concepto completamente nuevo e imprevisto.
 
