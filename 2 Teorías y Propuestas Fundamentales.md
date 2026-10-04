@@ -1,3 +1,5 @@
+# Introducción al Repositorio: Teorías y Propuestas Fundamentales
+
 Este repositorio recopila marcos teóricos, análisis críticos y propuestas arquitectónicas orientadas a transformar la relación entre los sistemas de inteligencia artificial y la cognición humana. Las investigaciones aquí expuestas abordan las limitaciones estructurales de los modelos actuales y proponen soluciones basadas en la separación funcional, el razonamiento composicional y la gobernanza ética externa.
 
 ---
